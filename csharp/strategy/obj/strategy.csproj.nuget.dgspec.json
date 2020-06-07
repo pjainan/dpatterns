@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Drive\\OneDrive - Infosys Limited\\Projects\\DesignPatterns\\dpatterns\\csharp\\strategy\\strategy.csproj": {}
+  },
+  "projects": {
+    "D:\\Drive\\OneDrive - Infosys Limited\\Projects\\DesignPatterns\\dpatterns\\csharp\\strategy\\strategy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Drive\\OneDrive - Infosys Limited\\Projects\\DesignPatterns\\dpatterns\\csharp\\strategy\\strategy.csproj",
+        "projectName": "strategy",
+        "projectPath": "D:\\Drive\\OneDrive - Infosys Limited\\Projects\\DesignPatterns\\dpatterns\\csharp\\strategy\\strategy.csproj",
+        "packagesPath": "C:\\Users\\pankaj_jainani\\.nuget\\packages\\",
+        "outputPath": "D:\\Drive\\OneDrive - Infosys Limited\\Projects\\DesignPatterns\\dpatterns\\csharp\\strategy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pankaj_jainani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
